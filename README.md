@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-  <strong style="font-size: 2em;">S K U L L</strong>
+  <img src="img/skull-wordmark.svg" alt="SKULL" width="400">
   <br><br>
   <em>"Certificamos mejora continua" — "We certify continuous improvement"</em>
 </p>
