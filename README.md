@@ -1,6 +1,8 @@
 <br>
 
 <p align="center">
+  <img src="img/skull-isotipo.svg" alt="SKULL" width="100">
+  <br><br>
   <img src="img/skull-wordmark.svg" alt="SKULL" width="400">
   <br><br>
   <em>"Certificamos mejora continua" — "We certify continuous improvement"</em>
