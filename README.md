@@ -8,7 +8,6 @@
   <br>
   <sub>"We certify continuous improvement"</sub>
   <br><br>
-  <a href="#quienes-somos">Quienes Somos</a> ·
   <a href="#sbos--sistema-operativo-de-negocios-soberano">SBOS</a> ·
   <a href="#los-doce-dominios">Dominios</a> ·
   <a href="#d12--blockchain-anchoring">D12</a> ·
@@ -18,8 +17,6 @@
 </p>
 
 ---
-
-## Quienes Somos
 
 SKULL es una firma de ingeniería y consultoría estratégica que diseña, construye y despliega infraestructura empresarial soberana para organizaciones de Iberoamérica.
 
